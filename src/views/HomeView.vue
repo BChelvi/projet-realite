@@ -21,7 +21,6 @@ export default {
   components: {
     CameraComp,
     ArticlesComp,
-    
   },
   created : function(){
     const elem = document.body;
